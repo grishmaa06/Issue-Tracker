@@ -1,11 +1,35 @@
-<div align="center">
+# ZenKanban
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A minimalist, high-velocity Kanban issue tracker built with React, Tailwind CSS, and Framer Motion.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Full CRUD**: Create, Update, and Delete issues.
+- **Kanban Workflow**: Move tasks between Backlog, In Progress, and Completed lanes.
+- **Persistence**: All data is automatically saved to your browser's Local Storage.
+- **Polished UI**: Technical dashboard aesthetic with smooth animations and responsive design.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack
+- React 19
+- Tailwind CSS 4
+- Lucide React (Icons)
+- Motion (Animations)
+- TypeScript
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Running Locally
 
-</div>
+1. **Clone/Download** the project files.
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Start Development Server**:
+   ```bash
+   npm run dev
+   ```
+4. **Build for Production**:
+   ```bash
+   npm run build
+   ```
+
+## Design Philosophy
+ZenKanban follows a "Technical Dashboard" aesthetic—prioritizing clarity, precision, and low-latency interaction. It uses monospace fonts for metadata and italicized serifs for structural headers to create a professional yet human feel.

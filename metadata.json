@@ -1,0 +1,6 @@
+{
+  "name": "ZenKanban",
+  "description": "A minimalist, full-stack issue tracker with local storage persistence and a polished Kanban workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
